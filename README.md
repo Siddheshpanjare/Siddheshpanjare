@@ -68,8 +68,8 @@ Optimized for clear data storytelling and actionable insights
 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white&icon_color=white" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddheshpanjare&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white&icon_color=white" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddheshpanjare&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white" width="48%" />
 </p>
 
 🔗 Connect With Me
