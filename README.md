@@ -65,13 +65,6 @@ Preprocessed video datasets and trained model using ResNet50
 Increased early detection probability in trials by at least 7% 
 Minimized the government spend on autistic kids by at least 7% 
 
-📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddheshpanjare&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white&icon_color=white" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddheshpanjare&theme=transparent&hide_border=true&title_color=white&text_color=white&sideNums=white&sideLabels=white&ring=white&fire=white&currStreakLabel=white&currStreakNum=white" width="48%" />
-</p>
-
 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/siddheshpanjare)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sid786panjare@gmail.com)
